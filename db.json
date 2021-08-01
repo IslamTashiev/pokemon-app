@@ -1,0 +1,65 @@
+{
+  "pokemons": [
+    {
+      "name": "Pikachu",
+      "description": "Pikachu are small, mouse-like Pokémon that have short, yellow fur with brown markings covering their backs and parts of their tails.",
+      "img": "http://pngimg.com/uploads/pokemon/pokemon_PNG26.png",
+      "id": 3
+    },
+    {
+      "name": "Sobble",
+      "description": "Sobble, the Water Lizard Pokémon. A Water type. When Sobble touches watery substances",
+      "img": "https://ru.pixelmon.site/pokemon/816.png",
+      "id": 4
+    },
+    {
+      "name": "Bulbasaur",
+      "description": "In the Pokémon franchise, Bulbasaur are small, squat amphibian and plant Pokémon that move on all four legs, and have light blue-green bodies with darker blue-green spots. As a Bulbasaur undergoes evolution into Ivysaur and then later into Venusaur, the bulb on its back blossoms into a large flower",
+      "img": "https://upload.wikimedia.org/wikipedia/en/2/28/Pok%C3%A9mon_Bulbasaur_art.png",
+      "id": 5
+    },
+    {
+      "name": "Natu",
+      "description": "Stats HP Attack Defense Special Attack Special Defense Speed> It is extremely good at climbing tree trunks and likes to eat the new sprouts on the trees.",
+      "img": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/177.png",
+      "id": 6
+    },
+    {
+      "name": "Blissey",
+      "description": "Whenever a Blissey finds a weakened Pokémon, it will share its egg and offer its care until the other Pokémon is all better.",
+      "img": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/242.png",
+      "id": 7
+    },
+    {
+      "name": "Charmander",
+      "description": "It has a preference for hot things. When it rains, steam is said to spout from the tip of its tail.",
+      "img": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/004.png",
+      "id": 10
+    },
+    {
+      "name": "Butterfree",
+      "description": "In battle, it flaps its wings at great speed to release highly toxic dust into the air.",
+      "img": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/012.png",
+      "id": 11
+    },
+    {
+      "name": "Blastoise",
+      "description": "It crushes its foe under its heavy body to cause fainting. In a pinch, it will withdraw inside its shell.",
+      "img": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/009.png",
+      "id": 12
+    },
+    {
+      "name": "Beedrill",
+      "description": "It has three poisonous stingers on its forelegs and its tail. They are used to jab its enemy repeatedly.",
+      "img": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/015.png",
+      "id": 13
+    },
+    {
+      "name": "Ekans",
+      "description": "The older it gets, the longer it grows. At night, it wraps its long body around tree branches to rest.",
+      "img": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/023.png",
+      "id": 14
+    }
+  ],
+  "favorite": []
+}
